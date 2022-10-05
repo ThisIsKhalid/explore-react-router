@@ -4,12 +4,12 @@
 .header a {
     text-decoration: none;
     margin-left: 15px;
-    background-color: blueviolet;
-    color: white;
+    /* background-color: blueviolet; */
+    color: black;
     border: none;
     border-radius: 8px;
     padding: 10px 14px;
 }
-.header a:hover {
-    background-color: tomato;
+.active {
+    background-color: palevioletred;
 }
